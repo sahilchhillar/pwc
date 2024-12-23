@@ -1,0 +1,18 @@
+/* RegisterPage.css */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.register-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.register-box {
+    background-color: #fff;
+    width: 100%;
+    max-width: 400px;
+}
